@@ -1,4 +1,4 @@
-## LIVE DEMO :- <a href="">NxtTrendz App</a>
+## LIVE DEMO :- <a href="https://nxtwatch-app-react.vercel.app/">NxtTrendz App</a>
 
 ### Refer to videos below:
 
