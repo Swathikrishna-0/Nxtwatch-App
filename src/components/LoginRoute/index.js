@@ -125,6 +125,7 @@ class LoginForm extends Component {
           />
           <InputContainer>{this.renderUsernameField()}</InputContainer>
           <InputContainer>{this.renderPasswordField()}</InputContainer>
+          <p>Username: rahul, Password: rahul@2021</p>
           <LoginButton type="submit">Login</LoginButton>
           {showSubmitError && <ErrorMessage>*{errorMsg}</ErrorMessage>}
         </FormContainer>
