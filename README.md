@@ -1,5 +1,5 @@
 ## LIVE DEMO :- <a href="https://nxtwatch-app-react.vercel.app/">NxtTrendz App</a>
-
+Username: rahul, Password: rahul@2021
 ### Refer to videos below:
 
 **Success View** <br/>
